@@ -25,7 +25,7 @@ role: Associate Professor
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: South China University of Technology
-    url: https://openai.com/
+    url: https://www.scut.edu.cn/new/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -55,8 +55,8 @@ interests:
 education:
   - area: PhD Power Electronics
     institution: The Hong Kong Polytechnic University
-  #  date_start: 2016-01-01
-  #  date_end: 2020-12-31
+    date_start: 2013
+    date_end: 2018
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
