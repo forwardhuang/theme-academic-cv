@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 黄智聪
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhicong
+last_name: Huang
 
 # Status emoji
 status:
@@ -24,7 +24,7 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: South China University of Technology
     url: https://openai.com/
 
 # Social network links
