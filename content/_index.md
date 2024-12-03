@@ -46,7 +46,7 @@ sections:
         
         Please reach out to collaborate 😃
     design:
-      columns: '2'
+      columns: 2
   
   - block: collection
     id: papers
