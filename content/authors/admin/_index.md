@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
+  - Wireless Power Transfer
   - Computational Linguistics
   - Information Retrieval
 
