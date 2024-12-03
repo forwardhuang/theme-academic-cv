@@ -49,6 +49,7 @@ profiles:
 interests:
   - Wireless Power Transfer
   - Artificial Intelligence in Power Electronics
+  - Power Electronics Penetrated Power Systems
   - Wave Energy Converter
 
 education:
@@ -183,4 +184,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhicong Huang is a Senior Member of IEEE. He received the Ph.D. degree in power electronics from The Hong Kong Polytechnic University, Hong Kong, under the supervision of Prof. Chi K. Michael Tse (IEEE Fellow), in 2018. Following his doctoral studies, he worked was a Postdoctoral Fellow under the UM Macao Talent Program with the State Key Laboratory of Analog and Mixed-Signal VLSI, University of Macau, Macao, China, in 2019. Since 2020, he has been an Associate Professor at the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, Guangzhou, China.
+
+Dr. Huang has dedicated over 10 years to the field of Power Electronics and its interdisciplinary applications. His current research focuses on Wireless Power Transfer, Artificial Intelligence in Power Electronics, Power Electronics Penetrated Power Systems, and Wave Energy Converters. Over the past five years, as a Principal Investigator, he has led more than 10 research projects, with a total funding over 880,000 USD. His research contributions include over 30 journal papers, most of which are in JCR Q1 journals, with two recognized as spotlight papers. He also has 2 prize conference papers and holds 1 US patent along with 3 Chinese patents. He is listed in the Top 2\% Scientists Worldwide by Stanford University.
+
+Dr. Huang serves as an Associate Editor for IEEE Transactions on Consumer Electronics and a Guest Editor for IEEE Open Journal of Circuits and Systems. He is also an active peer reviewer, with 820 verified reviews on Web of Science, for various top IEEE journals. He has been recognized with 3 reviewer awards from IEEE journals.
