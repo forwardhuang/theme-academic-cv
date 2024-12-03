@@ -30,7 +30,8 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: collection
+  
+  - block: markdown
     content:
       title: 'Publication List'
       subtitle: ''
@@ -42,6 +43,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+  
   - block: collection
     id: papers
     content:
