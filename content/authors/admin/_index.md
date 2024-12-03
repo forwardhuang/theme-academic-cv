@@ -73,7 +73,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Electrical Engineering and Automation
+  - area: BSc Electrical Engineering
     institution: Huazhong University of Science and Technology
     date_start: 2006-09-01
     date_end: 2010-06-30
