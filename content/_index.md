@@ -30,6 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
+  
   - block: markdown
     content:
       title: '📚 My Research'
@@ -41,7 +42,8 @@ sections:
         
         Please reach out to collaborate 😃
     design:
-      columns: '1'
+      columns: '2'
+  
   - block: collection
     id: papers
     content:
