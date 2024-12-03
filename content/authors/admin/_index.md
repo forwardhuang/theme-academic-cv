@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Wireless Power Transfer
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence in Power Electronics
+  - Wave Energy Converter
 
 education:
   - area: PhD Artificial Intelligence
