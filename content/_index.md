@@ -35,15 +35,13 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
+      text:  
+        1. Hanchen Ge, Yaofeng Liang, Jinpeng Lei, Canjun Yuan and Zhicong Huang*, “Neural ODE model of power electronic converters with accelerated computation and high fidelity,” IEEE Transactions on Circuits and Systems, in press.
         
-        xxxUse this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        2. Hai Xu and Zhicong Huang*, “Alternately-arranged segmented transmitter pads with magnetic field complementation for suppressing power fluctuation in dynamic wireless power transfer,” IEEE Transactions on Power Electronics, vol. 39, no. 10, pp. 14091-14102, Oct. 2024.
+        3. Chongzhe Yuan, Bowei Zou, Zhicong Huang*, Io-Wa Iam*, and Chi-Seng Lam, “Configuration and control design of inductive power transfer systems with back-end power factor correction,” IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 12, no. 5, pp. 5352-5363, Oct. 2024.
     design:
-      columns: '2'
+      columns: 2
   
   - block: collection
     id: papers
@@ -56,6 +54,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+  
   - block: collection
     content:
       title: Recent Publications
@@ -77,6 +76,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+  
   - block: collection
     id: news
     content:
