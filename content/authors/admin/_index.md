@@ -10,8 +10,8 @@ first_name: Zhicong
 last_name: Huang
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -185,4 +185,4 @@ awards:
 
 ## About Me
 
-Dr. Zhicong Huang is listed in the Top 2\% Scientists Worldwide by Stanford University. He serves as an Associate Editor for IEEE Transactions on Consumer Electronics and an active peer reviewer recognized with 3 reviewer awards from IEEE journals.
+World's Top 2% Scientists by Stanford University/Elsevier (全球前2%顶尖科学家)
