@@ -1,11 +1,17 @@
 ---
-title: "An example journal article"
+title: "Synthesis of inductive power transfer converters with dual immittance networks for inherent CC-to-CV charging profiles"
+
+# 填作者信息
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Tian Qin
+- Xiaolu Lucia Li
+- Li Ding
+- Herbert Ho-Ching Iu
+- Chi K. Tse
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -18,13 +24,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*IEEE Transactions on Power Electronics*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: To comply with the constant current (CC) and constant voltage (CV) charging characteristics of a lithium battery, it is expected that an inductive power transfer (IPT) charging system can provide the required power forms simultaneously. This article first proposes a systematic design pathway for IPT charging systems that inherently support CC-to-CV charging profiles on the basis of immittance networks. By appropriately connecting an IPT immittance network and a clamping immittance network with resistive input impedance and constant output characteristics, a family of IPT charging systems capable of delivering CC and CV output forms can be derived. Restricting the number of the compensation components to a maximum of 4, a total of 11 types of IPT immittance networks and six types of clamping immittance networks are derived. These immittance networks can be combined in various ways to provide 11×6 possible inherent CC-to-CV charging systems. The inherent CC-to-CV transition capability under passive control is achieved, maximizing the simplicity of control schemes. Both the design freedom for parameter configuration and the modularity of charging systems are improved, due to the power decoupling nature of the interconnected dual immittance networks. Two sets of IPT battery chargers are constructed to verify the proposed design methodology.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This article first proposes a systematic design pathway for IPT charging systems that inherently support CC-to-CV charging profiles on the basis of immittance networks.
 
 tags:
 - Source Themes
